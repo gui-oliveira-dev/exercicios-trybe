@@ -1,2 +1,1 @@
-# exerc-cios-trybe
-Exercício da aula 1.3
+# Meu repositório de exercícios
