@@ -1,0 +1,37 @@
+Pegar a toalha
+abrir a porta do banheiro
+entrar no banheiro
+fechar a porta do banheiro
+trancar a porta
+entrar debaixo do chuveiro
+ligar o chuveiro
+se ensaboar
+se enxaguar
+desligar o chuveiro
+pegar a toalha
+se secar
+se enrolar na toalha
+destrancar a porta
+abrir a porta
+sair do banheiro
+entrar no quarto
+fechar a porta
+abrir o guarda-roupas
+escolher uma camiseta
+escolher uma calça
+escolher uma cueca
+escolher um tenis
+escolher uma meia
+desenrolar da toalha
+vestir a cueca
+vestir a calça
+vestir a camiseta
+vestir a meia
+calçar o tenis
+escolher um perfume
+passar o perfume
+ir ao banheiro
+pegar a escova de cabelo
+pentear os cabelos
+pegar o celular, carteira e chaves
+sair para a festa
